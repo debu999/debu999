@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Debabrat Patnaik, a technology enthusiast. Working in financial industry in capacity of Tech Architect.
+- 👋 Hi, I’m Debabrata Patnaik, a technology enthusiast. Working in financial industry in capacity of Tech Architect.
 - 👀 I’m interested in latest and brightest things in Java/Python/Docker/Kubernetes/Heroku/AWS
-- 🌱 I’m currently learning kogito/quarkus/django/machine learning/small rye. 
+- 🌱 I’m currently learning kogito/quarkus/django/machine learning/smallrye. 
 - 💞️ I’m looking to collaborate on anything new and interesting.
 - 📫 How to reach me twitter @i_m_debu 
 
